@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pandas
+openpyxl
+qrcode[pil]
+passlib
+python-multipart
